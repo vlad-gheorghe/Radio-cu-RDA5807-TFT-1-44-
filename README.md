@@ -12,3 +12,5 @@ http://full-chip.net/arduino-proekty/97-cifrovoy-fm-priemnik-na-arduino-i-module
 http://seta43.hol.es/radiofm.html
 
 RDS FROM https://github.com/mathertel/Radio
+
+![poza](https://github.com/vlad-gheorghe/Radio-cu-RDA5807-TFT-1-44-/blob/master/IMAG0190.jpg)
